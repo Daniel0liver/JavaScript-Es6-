@@ -1,0 +1,4 @@
+{
+    // Converte o código de uma maneira que todos os navegadores entendam
+    "presets": ["@babel/preset-env"] 
+}
